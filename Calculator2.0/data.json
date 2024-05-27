@@ -1,0 +1,43 @@
+{
+  "formula": "c ^ a",
+  "var": [
+    {
+      "name": "a",
+      "type": 0,
+      "value": 20
+    },
+    {
+      "name": "b",
+      "type": 1,
+      "value": {
+        "num": 1,
+        "denom": 0
+      }
+    },
+    {
+      "name": "c",
+      "type": 2,
+      "value": {
+        "rows": 3,
+        "cols": 3,
+        "data": [
+          [ 1, 0, 0 ],
+          [ 0, 1, 0 ],
+          [ 0, 0, 1 ]
+        ]
+      }
+    },
+    {
+      "name": "d",
+      "type": 2,
+      "value": {
+        "rows": 2,
+        "cols": 2,
+        "data": [
+          [ 1, 2],
+          [ 4, 5]
+        ]
+      }
+    }
+  ]
+}
